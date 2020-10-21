@@ -1,0 +1,19 @@
+  /* 登录页表单输入框样式 */
+.login .el-input__inner{
+    width:83% !important;
+}
+
+.login .el-form-item__label{
+  color:#fff;
+}
+
+
+.login .el-input__inner{
+  background: rgba(0, 0, 0, 0.05);
+  color:#fff;
+}
+
+
+body{
+  overflow: hidden;
+}
